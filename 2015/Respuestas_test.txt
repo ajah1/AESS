@@ -1,0 +1,39 @@
+1. a
+2. c 
+3. b 
+4. d 
+5. b
+6. d
+7. 
+8. a 
+9. b 
+10.b
+11.d 
+12.
+13.
+14.c 
+15.a
+
+
+Mis respuestas: (parecen ser las buenas)
+1. a
+2. c
+3. b
+4. d
+5. d Porque en la última transparencia del tema dice “Los Casos de Uso no son parte del diseño (cómo), sino parte del análisis (qué)”
+6. d
+7. b Yo diría esta.
+8. a
+9. b ¿por qué la a no? Si hay un estado compuesto, podría tener otro estado inicial dentro
+10. b
+11. d
+12. a Yo diría esta. 
+13. a Yo diría esta.
+14. c
+15. a
+
+
+Coincido en todas. La única que no tengo del todo claro es la 1. que dudo entre la a o la d (p.45 Tema 4.5).
+
+Respecto a que la en la 9 no sea la a y sí la b, yo diría que no se refiere a un estado inicial compuesto, si no a varios estados iniciales. Y lo que sí es seguro al 100% es que un diagrama de estados solo modela el comportamiento de un objeto (uno único).
+
